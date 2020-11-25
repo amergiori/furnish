@@ -1,0 +1,97 @@
+[29-Sep-2018 09:54:41 UTC] PHP Warning:  require(/home/fo3ajraxylhf/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/fo3ajraxylhf/public_html/index.php on line 24
+[29-Sep-2018 09:54:41 UTC] PHP Fatal error:  require(): Failed opening required '/home/fo3ajraxylhf/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fo3ajraxylhf/public_html/index.php on line 24
+[17-Oct-2018 09:56:14 UTC] PHP Warning:  require(/home/fo3ajraxylhf/Subdomains/furnish../../laravel_app/vendor/autoload.php): failed to open stream: No such file or directory in /home/fo3ajraxylhf/Subdomains/furnish/index.php on line 24
+[17-Oct-2018 09:56:14 UTC] PHP Fatal error:  require(): Failed opening required '/home/fo3ajraxylhf/Subdomains/furnish../../laravel_app/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fo3ajraxylhf/Subdomains/furnish/index.php on line 24
+[17-Oct-2018 09:56:18 UTC] PHP Warning:  require(/home/fo3ajraxylhf/Subdomains/furnish../../laravel_app/vendor/autoload.php): failed to open stream: No such file or directory in /home/fo3ajraxylhf/Subdomains/furnish/index.php on line 24
+[17-Oct-2018 09:56:18 UTC] PHP Fatal error:  require(): Failed opening required '/home/fo3ajraxylhf/Subdomains/furnish../../laravel_app/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fo3ajraxylhf/Subdomains/furnish/index.php on line 24
+[07-Nov-2018 08:41:21 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Exceptions\Advertisement' not found in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php:49
+Stack trace:
+#0 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#1 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 {main}
+  thrown in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php on line 49
+[07-Nov-2018 08:41:22 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Exceptions\Advertisement' not found in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php:49
+Stack trace:
+#0 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#1 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 {main}
+  thrown in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php on line 49
+[07-Nov-2018 08:41:39 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Exceptions\Advertisement' not found in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php:49
+Stack trace:
+#0 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#1 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 {main}
+  thrown in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php on line 49
+[07-Nov-2018 08:56:52 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Exceptions\Advertisement' not found in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php:49
+Stack trace:
+#0 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#1 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 {main}
+  thrown in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php on line 49
+[07-Nov-2018 08:56:52 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Exceptions\Advertisement' not found in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php:49
+Stack trace:
+#0 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#1 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 {main}
+  thrown in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php on line 49
+[07-Nov-2018 08:56:55 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Exceptions\Advertisement' not found in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php:49
+Stack trace:
+#0 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#1 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 {main}
+  thrown in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php on line 49
+[07-Nov-2018 08:57:09 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Exceptions\Advertisement' not found in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php:49
+Stack trace:
+#0 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#1 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 {main}
+  thrown in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php on line 49
+[07-Nov-2018 08:57:11 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Exceptions\Advertisement' not found in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php:49
+Stack trace:
+#0 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#1 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 {main}
+  thrown in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php on line 49
+[07-Nov-2018 08:57:20 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Exceptions\Advertisement' not found in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php:49
+Stack trace:
+#0 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#1 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 {main}
+  thrown in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php on line 49
+[07-Nov-2018 08:57:21 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Exceptions\Advertisement' not found in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php:49
+Stack trace:
+#0 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#1 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 {main}
+  thrown in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php on line 49
+[07-Nov-2018 08:57:22 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Exceptions\Advertisement' not found in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php:49
+Stack trace:
+#0 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#1 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 {main}
+  thrown in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php on line 49
+[07-Nov-2018 08:57:35 UTC] PHP Fatal error:  Uncaught Error: Access to undeclared static property: App\Exceptions\Handler::$data in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php:49
+Stack trace:
+#0 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#1 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 {main}
+  thrown in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php on line 49
+[07-Nov-2018 08:57:36 UTC] PHP Fatal error:  Uncaught Error: Access to undeclared static property: App\Exceptions\Handler::$data in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php:49
+Stack trace:
+#0 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#1 /home/fo3ajraxylhf/laravel_app/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#2 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\Debug\Exception\FatalThrowableError))
+#3 {main}
+  thrown in /home/fo3ajraxylhf/laravel_app/app/Exceptions/Handler.php on line 49
